@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ```
 
 ### How to use it
-Page / = /status you can enter your username and password to acces the /login page
+Page / = /status you can enter your username and password to acces the /login page  
 /predict you need to enter /<seller_avaible:int>/<month:str>/<customer_visiting_website:int>
 
 ## Pending things to do
