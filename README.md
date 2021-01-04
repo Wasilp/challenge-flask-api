@@ -2,7 +2,7 @@
  challenge-flask-api
 
 ## This project was realised for becode Thomas promotion using docker and heroku
-## Live conatainer
+## Live container
 
 https://challenge-flask-api-pw.herokuapp.com/
 
