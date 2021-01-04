@@ -7,7 +7,9 @@ CMD ["python","routes.py"]
 # from app 
 #docker build . -f docker/Dockerfile -t flask_challenge
 ## docker run -it flask_challenge
+
 # docker run -v $PWD:/app -it flask_challenge bash
+# heroku 
 #docker stop $(docker ps -aq)
 #docker rm $(docker ps -aq)
 #docker rmi $(docker images -q)
